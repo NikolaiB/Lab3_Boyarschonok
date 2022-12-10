@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Числа Фиббоначи : ");
+            Console.WriteLine("Последовательность Фиббоначи : ");
 
             int j = 1;
             Console.Write(1+"\t");
